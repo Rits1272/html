@@ -1,5 +1,7 @@
 # html
-Hey there
+Hey there, Welcome to Hacktoberfest Challenge
+
+Today, We are gonna learn something new here
 
 HACKTOBERFEST challengers
 
