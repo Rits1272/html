@@ -14,4 +14,6 @@ Task you may commit in home.html of this repo to complete your Hactoberfest chal
 3. Add a hyperlink of your favourite website.
 4. You may update this Readme file to add some more task of your choice.
 
-FOr queries: Contact me via ritikjain1272@gmail.com
+For queries: Contact me via ritikjain1272@gmail.com
+
+To learn more about Hactoberfest: https://hacktoberfest.digitalocean.com/details
