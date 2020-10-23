@@ -1,9 +1,9 @@
 # html
 Hey there, Welcome to Hacktoberfest Challenge
 
-Today, We are gonna learn something new here
+A project for everyone to complete their Hacktober fest challenges.
 
-HACKTOBERFEST challengers
+HACKTOBERFEST challenges:
 
 For Hactoberfest Session
 
@@ -16,4 +16,4 @@ Task you may commit in home.html of this repo to complete your Hactoberfest chal
 
 For queries: Contact me via ritikjain1272@gmail.com
 
-To learn more about Hactoberfest: https://hacktoberfest.digitalocean.com/details
+To learn more about Hacktoberfest: https://hacktoberfest.digitalocean.com/details
