@@ -1,0 +1,18 @@
+.container{
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.btn{
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 170px;
+}
+.img1{
+    border-radius: 50px 50px 50px 50px;
+    width: 50%;
+    height: 50%;
+    box-shadow: 10px 0px 10px 0px magenta;
+}
