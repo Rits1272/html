@@ -1,20 +1,22 @@
 ![App Screenshot](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-  # HTML 🔥
-Hey there, Welcome to Hacktoberfest Challenge 🧩 
+# HTML 🔥
 
-Today, We are gonna learn something new here   ✅ 
+Hey there, Welcome to Hacktoberfest Challenge 🧩
 
-HACKTOBERFEST Challengers 😎 
+Today, We are gonna learn something new here ✅
 
-For Hactoberfest Session 
+HACKTOBERFEST Challengers 😎
 
-✅  Task you may commit in home.html of this repo to complete your Hactoberfest challenge :)
+For Hactoberfest Session
+
+✅ Task you may commit in home.html of this repo to complete your Hactoberfest challenge :)
 
 1. Add a button with title of the button as your name.
 2. You can add an image of your favourite sports player.
 3. Add a hyperlink of your favourite website.
-4. You may update  Readme file to add  more task of your choice.
+4. You may update Readme file to add more task of your choice.
+5. Add your Goal for next year
 
 🔗 To learn more about Hactoberfest: https://hacktoberfest.digitalocean.com/details
 
