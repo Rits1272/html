@@ -25,7 +25,7 @@ If you're new to _git_ and/or _GitHub_, we suggest you go through [the GitHub Gu
 
 3. Create a new branch 
 4. Start hacking on the new branch
-5. Commit and push to the new branch
+5. Commit with a message and push to the new branch
 6. Make a pull request towards the original repository ([Rits1272/html](https://github.com/Rits1272/html))
 
 ## Pull Request Guidelines
